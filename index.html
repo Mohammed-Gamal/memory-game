@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Memory Game</title>
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap" rel="stylesheet">
+  </head>
+  <div class="control-button"><span>Start Game</span></div>
+  <div class="hints"><button>Hint</button></div>
+  <header>
+    Memory Game
+    <i class="fas fa-book"></i>
+  </header>
+  <div class="game-container">
+      <div class="container">
+        <div class="game-timer"></div>
+        <div class="game-info">
+          <div class="name">
+            Name: <span>Mohamed Gamal</span>
+          </div>
+          <div class="tries">
+            Wrong tries: <span>0</span>
+          </div>
+        </div>
+        <div class="game-blocks"></div>
+      </div>
+    </div>
+
+    <footer>Copyright &copy; <span class="year-date"></span>. All rights reserved</footer>
+
+    <audio id="fail" src="audios/fail.wav" preload="auto"></audio>
+    <audio id="success" src="audios/success.wav" preload="auto"></audio>
+    <audio id="gamestart" src="audios/gamestart.mp3" preload="auto"></audio>
+
+    <script src="js/file.js" type="module"></script>
+  </body>
+</html>

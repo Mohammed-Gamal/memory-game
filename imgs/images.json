@@ -1,0 +1,93 @@
+[
+    {
+        "name": "image_1",
+        "title": "angular",
+        "img-type": "png",
+        "img-path": "../imgs/angular.png",
+        "icon": "<i class=\"fab fa-angular\"></i>"
+    },
+    {
+        "name": "image_2",
+        "title": "bootstrap",
+        "img-type": "png",
+        "img-path": "../imgs/bootstrap.png",
+        "icon": "<i class=\"fab fa-bootstrap\"></i>"
+    },
+    {
+        "name": "image_3",
+        "title": "css3",
+        "img-type": "png",
+        "img-path": "../imgs/css3.png",
+        "icon": "<i class=\"fab fa-css3-alt\"></i>"
+    },
+    {
+        "name": "image_4",
+        "title": "database",
+        "img-type": "png",
+        "img-path": "../imgs/database.png",
+        "icon": "<i class=\"fas fa-database\"></i>"
+    },
+    {
+        "name": "image_5",
+        "title": "github",
+        "img-type": "png",
+        "img-path": "../imgs/github.png",
+        "icon": "<i class=\"fab fa-github\"></i>"
+    },
+    {
+        "name": "image_6",
+        "title": "gulp",
+        "img-type": "png",
+        "img-path": "../imgs/gulp.png",
+        "icon": "<i class=\"fab fa-gulp\"></i>"
+    },
+    {
+        "name": "image_7",
+        "title": "html5",
+        "img-type": "png",
+        "img-path": "../imgs/html5.png",
+        "icon": "<i class=\"fab fa-html5\"></i>"
+    },
+    {
+        "name": "image_8",
+        "title": "javascript",
+        "img-type": "png",
+        "img-path": "../imgs/javascript.png",
+        "icon": "<i class=\"fab fa-js-square\"></i>"
+    },
+    {
+        "name": "image_9",
+        "title": "nodejs",
+        "img-type": "png",
+        "img-path": "../imgs/nodejs.png",
+        "icon": "<i class=\"fab fa-node\"></i>"
+    },
+    {
+        "name": "image_10",
+        "title": "python",
+        "img-type": "png",
+        "img-path": "../imgs/python.png",
+        "icon": "<i class=\"fab fa-python\"></i>"
+    },
+    {
+        "name": "image_11",
+        "title": "react",
+        "img-type": "png",
+        "img-path": "../imgs/react.png",
+        "icon": "<i class=\"fab fa-react\"></i>"
+    },
+    {
+        "name": "image_12",
+        "title": "vuejs",
+        "img-type": "png",
+        "img-path": "../imgs/vuejs.png",
+        "icon": "<i class=\"fab fa-vuejs\"></i>"
+    },
+    {
+        "name": "image_13",
+        "title": "amazon",
+        "img-type": "png",
+        "img-path": "../imgs/amazon.png",
+        "icon": "<i class=\"fab fa-amazon\"></i>"
+    }
+]
