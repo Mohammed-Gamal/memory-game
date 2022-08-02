@@ -1,8 +1,8 @@
 # memory-game
 
-- [x] 
-- [x]
-- [x]
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
 
 <hr>
 
